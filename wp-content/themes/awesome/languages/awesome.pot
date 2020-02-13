@@ -1,0 +1,263 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Innovation Lite\n"
+"POT-Creation-Date: 2019-06-12 23:40+0600\n"
+"PO-Revision-Date: 2015-10-29 02:02+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.13\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: archive.php:14
+msgid "now browsing by category"
+msgstr ""
+
+#: archive.php:20
+msgid "now browsing by tag"
+msgstr ""
+
+#: archive.php:25
+msgid "now browsing by day"
+msgstr ""
+
+#: archive.php:28
+msgid "now browsing by month"
+msgstr ""
+
+#: archive.php:31
+msgid "now browsing by year"
+msgstr ""
+
+#: archive.php:34
+msgid "now browsing by author"
+msgstr ""
+
+#: archive.php:36
+msgid "now browsing the general archives"
+msgstr ""
+
+#: comments.php:12 functions.php:132
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:12 functions.php:132
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:12
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:26
+msgid "Comments are Closed"
+msgstr ""
+
+#: front-page.php:14 inc/customize.php:56
+msgid "We are <em>D5 Creation</em>"
+msgstr ""
+
+#: front-page.php:15 inc/customize.php:71
+msgid "Where Passion and Creativity Meets Experience"
+msgstr ""
+
+#: front-page.php:17 inc/customize.php:86
+msgid ""
+"We are a small team of industry veterans having decades of experience in "
+"<em>web development</em> and design. Our work is our passion. We hand craft "
+"every piece of the work we do and we take pride in our hand crafted design "
+"and clean codes"
+msgstr ""
+
+#: functions.php:96
+msgid "Theme by:"
+msgstr ""
+
+#: functions.php:96
+msgid "Powered by:"
+msgstr ""
+
+#: functions.php:112 functions.php:118
+msgid "Read More"
+msgstr ""
+
+#: functions.php:132
+msgid "Edit"
+msgstr ""
+
+#: functions.php:132
+msgid "Comments"
+msgstr ""
+
+#: functions.php:141
+msgid "NEWER ENTRIES"
+msgstr ""
+
+#: functions.php:142
+msgid "OLDER ENTRIES"
+msgstr ""
+
+#: functions.php:150
+msgid "SORRY, NOT FOUND ANYTHING"
+msgstr ""
+
+#: functions.php:151
+msgid "You Can Try Another Search..."
+msgstr ""
+
+#: functions.php:153
+msgid "&laquo; Or Return to the Home Page"
+msgstr ""
+
+#: functions.php:162
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:171
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: functions.php:180
+msgid "Footer Area One"
+msgstr ""
+
+#: functions.php:189
+msgid "Footer Area Two"
+msgstr ""
+
+#: functions.php:198
+msgid "Footer Area Three"
+msgstr ""
+
+#: functions.php:208
+msgid "Footer Area Four"
+msgstr ""
+
+#: header.php:43
+msgid "Main Menu"
+msgstr ""
+
+#: inc/customize.php:9
+msgid "AWESOME OPTIONS"
+msgstr ""
+
+#: inc/customize.php:10
+msgid ""
+"Awesome is CSS3 Powered and WordPress Latest Version Ready Responsive Theme. "
+"You can Learn More about the Features from the"
+msgstr ""
+
+#: inc/customize.php:10
+msgid "Awesome Theme Page"
+msgstr ""
+
+#: inc/customize.php:23
+msgid "Social Link - "
+msgstr ""
+
+#: inc/customize.php:26
+msgid ""
+"Input Your Social Page Link. Example: <b>http://wordpress.org/d5creation</"
+"b>.  If you do not want to show anything here leave the box blank. Supported "
+"Links are: wordpress.org, wordpress.com, dribbble.com, github.com, tumblr."
+"com, youtube.com, flickr.com, vimeo.com, codepen.io, linkedin.com"
+msgstr ""
+
+#: inc/customize.php:44
+msgid "Slide Image-"
+msgstr ""
+
+#: inc/customize.php:47
+msgid ""
+"Upload or Input the Slide Image URL Here. Recommended Size: 1600px X 600px"
+msgstr ""
+
+#: inc/customize.php:64
+msgid "About Heading"
+msgstr ""
+
+#: inc/customize.php:79
+msgid "About Sub Heading"
+msgstr ""
+
+#: inc/customize.php:94
+msgid "About Description"
+msgstr ""
+
+#: inc/theme-about.php:40
+msgid "D5 Creation Themes"
+msgstr ""
+
+#: post-content.php:34
+msgid "Previous Image"
+msgstr ""
+
+#: post-content.php:35
+msgid "Next Image"
+msgstr ""
+
+#: search.php:12
+msgid "SEARCH RESULTS"
+msgstr ""
+
+#: search.php:17
+msgid "Search Term:"
+msgstr ""
+
+#: search.php:18
+msgid "Number of Results:"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:19
+msgid "Meta"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Awesome"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://d5creation.com/theme/awesome/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Awesome is CSS3 Powered and WordPress Latest Version Ready Responsive Theme. "
+"Super Elegant and Professional Awesome Theme will be adjusted automatically "
+"with all smart devices if the Responsive Layout be selected.  Full Wide "
+"Template can be used for showing showcase or other pages. Featured Boxes, "
+"Portfolio and Staff Boxes can represent your company to the world. You can "
+"Visit the Awesome Demo at demo.d5creation.com/themes/?theme=Awesome and "
+"Awesome descriptions at https://d5creation.com/theme/awesome"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "D5 Creation"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://d5creation.com/"
+msgstr ""

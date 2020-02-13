@@ -1,0 +1,1223 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Eight Sec\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-21 08:14+0000\n"
+"POT-Revision-Date: Tue May 03 2016 14:41:46 GMT+0545 (Nepal Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: 8degreethemes <info@8degreethemes.com>\n"
+"Language-Team: 8degreethemes <info@8degreethemes.com>\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0.06\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: "
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: 404.php:24
+msgid "error"
+msgstr ""
+
+#: 404.php:25
+msgid "404"
+msgstr ""
+
+#: archive.php:33
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:36
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:39
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:39
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:42
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:42
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:74
+msgid "WordPress Theme : "
+msgstr ""
+
+#: footer.php:74
+msgid "Free WordPress Theme"
+msgstr ""
+
+#: footer.php:74
+msgid "https://8degreethemes.com/wordpress-themes/eight-sec/"
+msgstr ""
+
+#. Name of the theme
+#: footer.php:74
+msgid "Eight Sec"
+msgstr ""
+
+#: footer.php:75
+msgid " by 8Degree Themes"
+msgstr ""
+
+#: footer.php:91
+msgid "Go to top"
+msgstr ""
+
+#: functions.php:56
+msgid "Primary"
+msgstr ""
+
+#: functions.php:146
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:177
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:179 functions.php:188 functions.php:197 functions.php:206
+#: functions.php:215
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:186
+msgid "Footer One"
+msgstr ""
+
+#: functions.php:195
+msgid "Footer Two"
+msgstr ""
+
+#: functions.php:204
+msgid "Footer Three"
+msgstr ""
+
+#: functions.php:213
+msgid "Footer Four"
+msgstr ""
+
+#: header.php:29
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:79
+msgid "HOME"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:6 inc/admin-panel/eight-sec-customizer.php:1097
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:7 inc/admin-panel/eight-sec-customizer.php:1118
+msgid "Search"
+msgstr ""
+
+#: searchform.php:15 searchform.php:16
+msgid "Search for:"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage"
+msgstr ""
+
+#: tpl-home.php:13 inc/admin-panel/eight-sec-customizer.php:151
+msgid "Get Started"
+msgstr ""
+
+#: tpl-home.php:81 inc/eight-sec-function.php:86
+msgid "ABOUT US"
+msgstr ""
+
+#: tpl-home.php:145 inc/eight-sec-function.php:86
+msgid "PORTFOLIO"
+msgstr ""
+
+#: tpl-home.php:146 tpl-home.php:221 tpl-home.php:326
+#: inc/admin-panel/eight-sec-customizer.php:406
+#: inc/admin-panel/eight-sec-customizer.php:416
+#: inc/admin-panel/eight-sec-customizer.php:527
+#: inc/admin-panel/eight-sec-customizer.php:762
+msgid "View all"
+msgstr ""
+
+#: tpl-home.php:219 inc/eight-sec-function.php:86
+msgid "TEAM"
+msgstr ""
+
+#: tpl-home.php:295 inc/eight-sec-function.php:86
+#: inc/admin-panel/eight-sec-customizer.php:584
+msgid "CTA"
+msgstr ""
+
+#: tpl-home.php:298 inc/admin-panel/eight-sec-customizer.php:625
+msgid "Hire us"
+msgstr ""
+
+#: tpl-home.php:323 inc/eight-sec-function.php:86
+msgid "BLOG"
+msgstr ""
+
+#: tpl-home.php:403 inc/eight-sec-function.php:86
+msgid "TESTIMONIAL"
+msgstr ""
+
+#: tpl-home.php:474 inc/eight-sec-function.php:86
+msgid "CONTACT US"
+msgstr ""
+
+#: inc/eight-sec-function.php:67
+msgid "Select page"
+msgstr ""
+
+#: inc/eight-sec-function.php:77 inc/admin-panel/eight-sec-customizer.php:140
+#: inc/admin-panel/eight-sec-customizer.php:395
+#: inc/admin-panel/eight-sec-customizer.php:515
+#: inc/admin-panel/eight-sec-customizer.php:751
+#: inc/admin-panel/eight-sec-customizer.php:867
+msgid "Select category"
+msgstr ""
+
+#: inc/eight-sec-function.php:110
+msgid "Home"
+msgstr ""
+
+#: inc/eight-sec-function.php:197
+msgid "Posts tagged"
+msgstr ""
+
+#: inc/eight-sec-function.php:201
+msgid "Articles posted by"
+msgstr ""
+
+#: inc/eight-sec-function.php:203
+msgid "Error 404"
+msgstr ""
+
+#: inc/eight-sec-function.php:209
+msgid " Page"
+msgstr ""
+
+#: inc/eight-sec-function.php:239 inc/eight-sec-function.php:255
+#: inc/admin-panel/eight-sec-customizer.php:1217
+msgid "Facebook"
+msgstr ""
+
+#: inc/eight-sec-function.php:243 inc/admin-panel/eight-sec-customizer.php:1236
+msgid "Twitter"
+msgstr ""
+
+#: inc/eight-sec-function.php:247 inc/admin-panel/eight-sec-customizer.php:1255
+msgid "Google Plus"
+msgstr ""
+
+#: inc/eight-sec-function.php:251
+msgid "Youtube"
+msgstr ""
+
+#: inc/eight-sec-function.php:259 inc/admin-panel/eight-sec-customizer.php:1312
+msgid "Linkedin"
+msgstr ""
+
+#: inc/eight-sec-function.php:263
+msgid "Flickr"
+msgstr ""
+
+#: inc/eight-sec-function.php:267 inc/admin-panel/eight-sec-customizer.php:1351
+msgid "Vimeo"
+msgstr ""
+
+#: inc/eight-sec-function.php:271 inc/admin-panel/eight-sec-customizer.php:1389
+msgid "Instagram"
+msgstr ""
+
+#: inc/eight-sec-function.php:275
+msgid "Tumblr"
+msgstr ""
+
+#: inc/eight-sec-function.php:279
+msgid "Delicious"
+msgstr ""
+
+#: inc/eight-sec-function.php:283
+msgid "Rss"
+msgstr ""
+
+#: inc/eight-sec-function.php:287
+msgid "Github"
+msgstr ""
+
+#: inc/eight-sec-function.php:291 inc/admin-panel/eight-sec-customizer.php:1370
+msgid "Stumbleupon"
+msgstr ""
+
+#: inc/eight-sec-function.php:295
+msgid "Skype:"
+msgstr ""
+
+#: inc/eight-sec-function.php:295 inc/admin-panel/eight-sec-customizer.php:1465
+msgid "Skype"
+msgstr ""
+
+#: inc/eight-sec-function.php:444 welcome/welcome-config.php:48
+msgid "Activate"
+msgstr ""
+
+#: inc/eight-sec-function.php:445 welcome/welcome-config.php:57
+#: welcome/welcome-config.php:58
+msgid "Activated"
+msgstr ""
+
+#: inc/eight-sec-function.php:446 welcome/welcome-config.php:59
+msgid "Installing Demo"
+msgstr ""
+
+#: inc/eight-sec-function.php:447 welcome/welcome-config.php:60
+msgid "Demo Installed"
+msgstr ""
+
+#: inc/eight-sec-function.php:448 welcome/welcome-config.php:61
+msgid "Are you sure to import demo content ?"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:72 template-parts/content-page.php:41
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/archive-portfolio.php:3 template-parts/archive-team.php:2
+#: template-parts/content.php:10 template-parts/content.php:46
+msgid "Read More"
+msgstr ""
+
+#: template-parts/archive-portfolio.php:17
+msgid "Show all"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:26 template-parts/content-single.php:18
+#: template-parts/content.php:85
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:80
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: welcome/welcome-config.php:14
+msgid "Instant Demo Importer"
+msgstr ""
+
+#: welcome/welcome-config.php:19
+msgid ""
+"Access Demo Importer Plugin adds the feature to Import the Demo Conent with "
+"a single click."
+msgstr ""
+
+#: welcome/welcome-config.php:42
+msgid "Eight Sec Setup"
+msgstr ""
+
+#. Description of the theme
+#: welcome/welcome-config.php:43
+msgid ""
+"Eight Sec theme is a free wordpress one page theme with eight sections. It "
+"is ideal for business, corporate, portfolio, blog, agency, freelancer and "
+"any other modern and creative website. It has fullwidth and boxed layout and "
+"is fully responsive. Demo: http://8degreethemes.com/demo/eight-sec Support "
+"forum: support@8degreethemes.com"
+msgstr ""
+
+#: welcome/welcome-config.php:46
+msgid "Install and Activate"
+msgstr ""
+
+#: welcome/welcome-config.php:47
+msgid "Deactivate"
+msgstr ""
+
+#: welcome/welcome-config.php:51
+msgid "Pro Plugins"
+msgstr ""
+
+#: welcome/welcome-config.php:52
+msgid "Take Advantage of some of our Premium Plugins."
+msgstr ""
+
+#: welcome/welcome-config.php:53
+msgid "Free Plugins"
+msgstr ""
+
+#: welcome/welcome-config.php:54
+msgid "These Free Plugins might be handy for you."
+msgstr ""
+
+#: welcome/welcome-config.php:64
+msgid "All Recommended action has been successfully completed."
+msgstr ""
+
+#: welcome/welcome-config.php:65
+msgid "Customize Theme"
+msgstr ""
+
+#: welcome/welcome.php:32
+msgid "Getting Started"
+msgstr ""
+
+#: welcome/welcome.php:33
+msgid "Recommended Plugins"
+msgstr ""
+
+#: welcome/welcome.php:35
+msgid "Import Demo"
+msgstr ""
+
+#: welcome/welcome.php:36
+msgid "Support"
+msgstr ""
+
+#: welcome/welcome.php:37
+msgid "Changelog"
+msgstr ""
+
+#: welcome/welcome.php:38
+msgid "More WordPress Stuff"
+msgstr ""
+
+#. 1 - notice title, 2 - notice message
+#: welcome/welcome.php:114
+msgid "Congratulations!"
+msgstr ""
+
+#. %s - theme name
+#: welcome/welcome.php:117
+#, php-format
+msgid ""
+"%s is now installed and ready to use. We've assembled some links to get you "
+"started."
+msgstr ""
+
+#. 1 - url, 2 - button text
+#: welcome/welcome.php:126
+msgid "Try one of our ready to use Starter Sites"
+msgstr ""
+
+#. 1 - options page url, 2 - button text
+#: welcome/welcome.php:132
+msgid "or go to the theme settings"
+msgstr ""
+
+#: welcome/welcome.php:143
+msgid "Sites Library"
+msgstr ""
+
+#. %s - theme name
+#: welcome/welcome.php:145
+#, php-format
+msgid ""
+"%s now comes with a sites library with various designs to pick from. Visit "
+"our collection of demos that are constantly being added."
+msgstr ""
+
+#: welcome/welcome.php:151 welcome/sections/support.php:15
+msgid "Documentation"
+msgstr ""
+
+#. %s - theme name
+#: welcome/welcome.php:153
+#, php-format
+msgid ""
+"Need more details? Please check our full documentation for detailed "
+"information on how to use %s."
+msgstr ""
+
+#: welcome/welcome.php:155
+msgid "Read full documentation"
+msgstr ""
+
+#. %1$s: theme name, %2$s: theme version
+#: welcome/welcome.php:196
+#, php-format
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#: welcome/welcome.php:230
+msgid "Get connected, share your opinions and more via our social community:"
+msgstr ""
+
+#: welcome/welcome.php:237
+msgid "Are you are enjoying WP Corporate? We would love to hear your feedback."
+msgstr ""
+
+#: welcome/welcome.php:371
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: welcome/welcome.php:380
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: welcome/welcome.php:461 welcome/welcome.php:481
+msgid "Plugin Does not Exists"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:10
+msgid "Default Setting"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:25
+msgid "Web Layout"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:42
+#: inc/admin-panel/eight-sec-customizer.php:116
+#: inc/admin-panel/eight-sec-customizer.php:235
+#: inc/admin-panel/eight-sec-customizer.php:331
+#: inc/admin-panel/eight-sec-customizer.php:450
+#: inc/admin-panel/eight-sec-customizer.php:569
+#: inc/admin-panel/eight-sec-customizer.php:687
+#: inc/admin-panel/eight-sec-customizer.php:803
+#: inc/admin-panel/eight-sec-customizer.php:901
+msgid "Do you want to enable this section?"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:48
+#: inc/admin-panel/eight-sec-sanitize.php:56
+msgid "Fullwidth Layout"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:49
+#: inc/admin-panel/eight-sec-sanitize.php:57
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:56
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:74
+msgid "Footer Copyright Area Text"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:75
+msgid "Enter text or Html to show in the footer."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:87
+msgid "Settings for Homepage Section of the theme"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:89
+msgid "Homepage Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:98
+msgid "Slider Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:99
+msgid "Settings of the Slider section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:122
+#: inc/admin-panel/eight-sec-customizer.php:184
+#: inc/admin-panel/eight-sec-customizer.php:207
+#: inc/admin-panel/eight-sec-customizer.php:241
+#: inc/admin-panel/eight-sec-customizer.php:337
+#: inc/admin-panel/eight-sec-customizer.php:456
+#: inc/admin-panel/eight-sec-customizer.php:575
+#: inc/admin-panel/eight-sec-customizer.php:693
+#: inc/admin-panel/eight-sec-customizer.php:809
+#: inc/admin-panel/eight-sec-customizer.php:907
+#: inc/admin-panel/eight-sec-sanitize.php:83
+msgid "Yes"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:123
+#: inc/admin-panel/eight-sec-customizer.php:185
+#: inc/admin-panel/eight-sec-customizer.php:208
+#: inc/admin-panel/eight-sec-customizer.php:242
+#: inc/admin-panel/eight-sec-customizer.php:338
+#: inc/admin-panel/eight-sec-customizer.php:457
+#: inc/admin-panel/eight-sec-customizer.php:576
+#: inc/admin-panel/eight-sec-customizer.php:694
+#: inc/admin-panel/eight-sec-customizer.php:810
+#: inc/admin-panel/eight-sec-customizer.php:908
+#: inc/admin-panel/eight-sec-sanitize.php:84
+msgid "No"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:160
+#: inc/admin-panel/eight-sec-customizer.php:1019
+msgid "Read more text"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:178
+msgid "Show control"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:201
+msgid "Show pager"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:217
+msgid "About Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:218
+msgid "Settings of the About Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:250
+msgid "About us"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:260
+#: inc/admin-panel/eight-sec-customizer.php:356
+#: inc/admin-panel/eight-sec-customizer.php:475
+#: inc/admin-panel/eight-sec-customizer.php:594
+#: inc/admin-panel/eight-sec-customizer.php:712
+#: inc/admin-panel/eight-sec-customizer.php:828
+#: inc/admin-panel/eight-sec-customizer.php:926
+msgid "Menu title text"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:279
+#: inc/admin-panel/eight-sec-customizer.php:375
+#: inc/admin-panel/eight-sec-customizer.php:494
+#: inc/admin-panel/eight-sec-customizer.php:613
+#: inc/admin-panel/eight-sec-customizer.php:731
+#: inc/admin-panel/eight-sec-customizer.php:847
+#: inc/admin-panel/eight-sec-customizer.php:945
+msgid "Select Page"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:280
+msgid "Choose page to display section title and description in about section."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:299
+msgid "Select Category"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:313
+msgid "Portfolio Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:314
+msgid "Settings of the Portfolio Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:346
+msgid "Portfolio"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:376
+msgid ""
+"Choose page to display section title and description in portfolio section."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:432
+msgid "Blog Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:433
+msgid "Settings of the Blog Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:465
+msgid "Blog"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:495
+msgid "Choose page to display section title and description in blog section."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:537
+msgid "View all blogs"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:551
+msgid "Call to Action Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:552
+msgid "Settings of the Call to Action(CTA) Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:614
+msgid "Choose page to display section title and description in cta section."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:635
+msgid "Button text"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:654
+msgid "Button link"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:669
+msgid "Team Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:670
+msgid "Settings of the Team Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:702
+msgid "Team"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:732
+msgid "Choose page to display section title and description in team section."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:772
+msgid "View all team"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:785
+msgid "Testimonial Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:786
+msgid "Settings of the Testimonial Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:818
+msgid "Testimonial"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:848
+msgid ""
+"Choose page to display section title and description in testimonial section."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:883
+msgid "Contact Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:884
+msgid "Settings of the Contact Section"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:916
+msgid "Contact us"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:946
+msgid ""
+"Choose page to display section title and description in contact section."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:964
+msgid "Enter Shortcode"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:965
+msgid ""
+"Enter shortcode of Ultimate Form Builder Plugin or any other contact form "
+"plugin."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:977
+msgid "Blog/Archive Setting"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:978
+msgid "Settings of Blog/Archive"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:994
+msgid "Choose Blog/Archive Layout"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1000
+#: inc/admin-panel/eight-sec-sanitize.php:69
+msgid "Blog Image Large"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1001
+#: inc/admin-panel/eight-sec-sanitize.php:70
+msgid "Blog Image Medium"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1002
+#: inc/admin-panel/eight-sec-sanitize.php:71
+msgid "Blog Image Alternate Medium"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1010
+msgid "Read more"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1033
+msgid "Header Settings of the theme"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1035
+#: welcome/sections/getting_started.php:21
+msgid "Header Settings"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1041
+msgid "Menu Setting"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1059
+msgid "Display eight-sec menu"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1060
+msgid "(Check to show eight section in the menu)"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1072
+msgid "Search Settings"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1088
+msgid "Check to Show Search in Header"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1107
+msgid "Search Box Placeholder"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1108
+msgid "Enter text to change placeholder text in header search box."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1128
+msgid "Search Button text"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1129
+msgid "Enter text to change button text in header search box."
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1140
+msgid "Logo Alignment"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1158
+msgid "Choose the layout that you want"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1162
+#: inc/admin-panel/eight-sec-sanitize.php:42
+msgid "Left"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1163
+#: inc/admin-panel/eight-sec-sanitize.php:43
+msgid "Center"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1164
+#: inc/admin-panel/eight-sec-sanitize.php:44
+msgid "Right"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1176
+msgid "Social Setting"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1194
+msgid "Enable Disable Social Icons in Footer"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1198
+#: inc/admin-panel/eight-sec-sanitize.php:94
+msgid "Enable"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1199
+#: inc/admin-panel/eight-sec-sanitize.php:95
+msgid "Disable"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1274
+msgid "YouTube"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1293
+msgid "Pinterest"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1331
+msgid "Flicker"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1408
+msgid "Sound Cloud"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1427
+msgid "Git Hub"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1446
+msgid "Tumbler"
+msgstr ""
+
+#: inc/admin-panel/eight-sec-customizer.php:1484
+msgid "RSS"
+msgstr ""
+
+#: welcome/sections/actions_required.php:142
+msgid "Install"
+msgstr ""
+
+#: welcome/sections/actions_required.php:142
+msgid "Plugin"
+msgstr ""
+
+#: welcome/sections/demo_import.php:117
+msgid "Install : "
+msgstr ""
+
+#: welcome/sections/demo_import.php:117
+msgid " Plugin"
+msgstr ""
+
+#: welcome/sections/getting_started.php:5
+msgid "Links to Customizer Settings"
+msgstr ""
+
+#: welcome/sections/getting_started.php:11
+msgid "Upload Logo"
+msgstr ""
+
+#: welcome/sections/getting_started.php:16
+msgid "Defaut and Basic Settings"
+msgstr ""
+
+#: welcome/sections/getting_started.php:26
+msgid "Menu Options"
+msgstr ""
+
+#: welcome/sections/getting_started.php:31
+msgid "HomePage Settings"
+msgstr ""
+
+#: welcome/sections/getting_started.php:36
+msgid "Blog Settings"
+msgstr ""
+
+#: welcome/sections/getting_started.php:41
+msgid "Social Settings"
+msgstr ""
+
+#: welcome/sections/getting_started.php:57
+msgid "Step 1 - Follow below actions"
+msgstr ""
+
+#: welcome/sections/getting_started.php:58
+msgid ""
+"We've made a checklist for you to take while setting up with our theme. Go "
+"through this and you can have your website ready in minutes."
+msgstr ""
+
+#: welcome/sections/getting_started.php:59
+msgid "Create a post, post category, page."
+msgstr ""
+
+#: welcome/sections/getting_started.php:59
+#: welcome/sections/getting_started.php:60
+msgid "Click here if you need help!"
+msgstr ""
+
+#: welcome/sections/getting_started.php:60
+msgid ""
+"Set page you created to load a custom template \"Homepage\" that came with "
+"theme and set it as frontpage."
+msgstr ""
+
+#: welcome/sections/getting_started.php:61
+msgid "Install required/recommerded plugins (if any)."
+msgstr ""
+
+#: welcome/sections/getting_started.php:62
+msgid "Click Me to install recommended plugins."
+msgstr ""
+
+#: welcome/sections/getting_started.php:68
+msgid "Step 2 - Import Demo Contents"
+msgstr ""
+
+#: welcome/sections/getting_started.php:69
+msgid ""
+"If you like to have a site as similar like our demo then, go to Import Demo "
+"tab and do the needfuls."
+msgstr ""
+
+#: welcome/sections/getting_started.php:70
+msgid "Click Me to import demo contents."
+msgstr ""
+
+#: welcome/sections/getting_started.php:75
+msgid "Step 3 - Check our documentation"
+msgstr ""
+
+#: welcome/sections/getting_started.php:76
+msgid ""
+"Even if you're a long-time WordPress user, we still believe you should give "
+"our documentation a very quick read."
+msgstr ""
+
+#: welcome/sections/getting_started.php:78
+msgid "Full documentation"
+msgstr ""
+
+#: welcome/sections/getting_started.php:83
+msgid "Step 4 - Customize everything"
+msgstr ""
+
+#: welcome/sections/getting_started.php:84
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: welcome/sections/getting_started.php:86
+msgid "Go to Customizer"
+msgstr ""
+
+#: welcome/sections/more_wp.php:7
+msgid ""
+"AND IF THIS THEME HAS IMPRESSED YOU, THEN YOU WOULD ENJOY OUR OTHER PROJECTS "
+"TOO. DO CHECK THESE OUT :"
+msgstr ""
+
+#: welcome/sections/more_wp.php:10
+msgid "Premium WordPress Themes"
+msgstr ""
+
+#: welcome/sections/more_wp.php:10
+msgid ""
+"6 premium WordPress themes well suited for all sort of websites. "
+"Professional, well coded and highly configurable themes for you."
+msgstr ""
+
+#: welcome/sections/more_wp.php:11 welcome/sections/more_wp.php:15
+#: welcome/sections/more_wp.php:21 welcome/sections/more_wp.php:25
+#: welcome/sections/more_wp.php:29
+msgid "Explore"
+msgstr ""
+
+#: welcome/sections/more_wp.php:14
+msgid "Premium WordPress Plugins"
+msgstr ""
+
+#: welcome/sections/more_wp.php:14
+msgid ""
+"45+ premium WordPress plugins of many different types. High user ratings, "
+"great quality and best sellers in CodeCanyon marketplace."
+msgstr ""
+
+#: welcome/sections/more_wp.php:20
+msgid "WPAll Club"
+msgstr ""
+
+#: welcome/sections/more_wp.php:20
+msgid ""
+"A complete WordPress resources club. WordPress tutorials, blogs, curated "
+"free and premium themes and plugins, WordPress deals, offers, hosting info "
+"and more."
+msgstr ""
+
+#: welcome/sections/more_wp.php:24
+msgid "AccessPress Themes"
+msgstr ""
+
+#: welcome/sections/more_wp.php:24
+msgid ""
+"AccessPress Themes has 50+ beautiful and elegant, fully responsive, "
+"multipurpose themes to meet your need for free and commercial basis."
+msgstr ""
+
+#: welcome/sections/more_wp.php:28
+msgid "8Degree Themes"
+msgstr ""
+
+#: welcome/sections/more_wp.php:28
+msgid ""
+"8Degree Themes offers 15+ free WordPress themes and 16+ premium WordPress "
+"themes  carefully crafted with creativity."
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:41
+#: welcome/sections/recommended_plugins.php:83
+#: welcome/sections/recommended_plugins.php:140
+msgid "Version "
+msgstr ""
+
+#: welcome/sections/support.php:5 welcome/sections/support.php:9
+msgid "Contact Support"
+msgstr ""
+
+#: welcome/sections/support.php:7
+msgid ""
+"We offer excellent support through our website support forum. Just Register "
+"and Post your query and you will be responded by one of our representatives. "
+"Or you can send email at "
+msgstr ""
+
+#: welcome/sections/support.php:7
+msgid "support@8degreethemes.com"
+msgstr ""
+
+#: welcome/sections/support.php:17
+msgid ""
+"This is the place to go to reference different aspects of the theme. Our "
+"online documentation is an incredible resource for learning the ins and outs "
+"of using our theme."
+msgstr ""
+
+#: welcome/sections/support.php:20
+msgid "See our full documentation"
+msgstr ""
+
+#: welcome/sections/support.php:26
+msgid "Video Tutorials"
+msgstr ""
+
+#: welcome/sections/support.php:28
+msgid ""
+"Check our yoututbe video tutorials on setting up themes as well as general "
+"setups. Do not forget to Subscribe to get more videos notifications."
+msgstr ""
+
+#: welcome/sections/support.php:31
+msgid "YoutTube Videos"
+msgstr ""
+
+#. URI of the theme
+msgid "http://8degreethemes.com/wordpress-themes/eight-sec/"
+msgstr ""
+
+#. Author of the theme
+msgid "8DegreeThemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://8degreethemes.com"
+msgstr ""

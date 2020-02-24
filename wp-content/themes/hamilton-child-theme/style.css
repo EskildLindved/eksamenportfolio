@@ -1,0 +1,21 @@
+/*
+ Theme Name:   Hamilton Child
+ Theme URI:    https://esdesign.dk/portfolio
+ Description:  Hamilton Child Theme 
+ Author:       Eskild Lindved
+ Author URI:   https://esdesign.dk/portfolio
+ Template:     hamilton 
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  hamiltonchild
+*/
+
+* { background-color: pink;}
+body a {
+    color: grey;
+    text-decoration: none;
+    font-size: 2rem; !important;
+    letter-spacing: 0rem;
+}
